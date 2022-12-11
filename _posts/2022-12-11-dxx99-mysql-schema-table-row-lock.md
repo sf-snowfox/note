@@ -1,5 +1,3 @@
-[Toc]
-
 # mysql-schema-table-row-lock(todo)
 
 ## 库
