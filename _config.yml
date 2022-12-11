@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://sf-snowfox.github.io/note/
+url: https://sf-snowfox.github.io/note.gihub.io/
 date_format: "ordinal"
 title: 学习笔记
 subtitle: "学习笔记"
